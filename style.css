@@ -11,10 +11,16 @@ body {
   min-height: 100vh;
 }
 
+input{
+  background-color: #e0e0e0;
+}
+
+
+
 button {
   height: fit-content;
   cursor: pointer;
-  color: #04202c;
+  color:  #5b705e;
   background-color: #c9d1c8;
 }
 
